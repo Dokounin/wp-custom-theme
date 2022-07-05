@@ -1,0 +1,16 @@
+/*
+Theme Name:   WP Custom theme
+Theme URI:    https://github.com/Dyacenko/wp-custom-theme
+Author:       Dyacenko
+Author URI:   https://github.com/Dyacenko/
+Requires at least: 6.0
+Requires PHP: 8.1.7
+Version:      1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+body{
+    background-color: pink;
+    padding: 1em;
+}
